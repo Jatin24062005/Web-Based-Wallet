@@ -7,8 +7,10 @@ export default {
   theme: {
     extend: {
       colors:{
-        t1:'#adb5bd',
+        t1:'#8b8c89',
         t2:'#415a77',
+        p1:'#0e0f18',
+        p2:'#6096ba',
       }
     },
   },
